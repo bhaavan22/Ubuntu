@@ -16,4 +16,4 @@ sudo nano /etc/default/grub
 #GRUB_CMDLINE_LINUX_DEFAULT="quiet splash i8042.notimeout i8042.nomux"
 #And then 
 sudo update-grub
-#Restart system
+sudo reboot
